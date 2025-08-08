@@ -1,0 +1,13 @@
+Create the repo on github
+clone that repo locally
+create two file in the name of readme.md & .gitignore locally & write some content in readme.md file  in for main branch
+add it , commit it with meaningfull meaasage and push it
+create the dev branch locally
+add new content in readme.md file
+add it , commit it with meaningfull message and push it from dev to dev from git push origin dev
+go to github see new message to create pull request review it & merge dev branch to main
+create locally feature branch from main branch
+add some more content in readme.md file .
+add it , commit it , push it to local feature branch to remote feature branch .
+go to github and see the message to create the pull request message review it & merge the feature branch to main branch
+create tags using git tag
